@@ -1,0 +1,14 @@
+programa {
+  funcao inicio() {
+    inteiro idade = 18
+    real altura = 1.58
+    cadeia nome = "amanda"
+    caracter letra = 'A'
+    logico trabalha = verdadeiro
+    escreva(idade, "\n")
+    escreva(altura, "\n")
+    escreva(nome, "\n")
+    escreva(letra, "\n")
+    escreva(trabalha)
+  }
+}
